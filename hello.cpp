@@ -2,5 +2,6 @@
 
 int main(){
 	cout<< "Goodbye World!\n";
+	cout<< "I have spoken\n";
 }
 
