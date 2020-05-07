@@ -1,5 +1,5 @@
 
-faggots: hello.o
+output: hello.o
 	g++ hello.o -o output
 
 hello.o: hello.cpp std_lib_facilities.h
